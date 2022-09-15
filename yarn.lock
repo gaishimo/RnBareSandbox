@@ -1268,10 +1268,10 @@
   resolved "https://registry.yarnpkg.com/@react-native/polyfills/-/polyfills-2.0.0.tgz#4c40b74655c83982c8cf47530ee7dc13d957b6aa"
   integrity sha512-K0aGNn1TjalKj+65D7ycc1//H9roAQ51GJVk5ZJQFb2teECGmzd86bYDC0aYdbRf7gtovescq4Zt6FR0tgXiHQ==
 
-"@shopify/react-native-skia@^0.1.145":
-  version "0.1.145"
-  resolved "https://registry.yarnpkg.com/@shopify/react-native-skia/-/react-native-skia-0.1.145.tgz#94acfdc61e8cd2e738e5e4aa233ffd1c62e9cd58"
-  integrity sha512-LpRK9b+qIjoiFxgzM4CtV3pBk21otBYLKWgZtWi3tROvXQjr2oPV+w8C6JsgYu/j9CveZVKqj214yXIGC3Wjww==
+"@shopify/react-native-skia@~0.1.148":
+  version "0.1.148"
+  resolved "https://registry.yarnpkg.com/@shopify/react-native-skia/-/react-native-skia-0.1.148.tgz#8d1afd07e14cf7c49921cbd085fe4e7080a80a08"
+  integrity sha512-GmnL8YoDZLZn9gCtnD3E9BEp8GKf1TYSaWTLR1dEh5a6swhY+kjCrOqw2pBv0u7rYuCZfTG/VWN0/cHC8dcvYA==
   dependencies:
     canvaskit-wasm "^0.36.0"
     react-reconciler "^0.26.2"
