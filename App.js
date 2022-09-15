@@ -1,6 +1,6 @@
-import React from 'react';
-import {StyleSheet, View} from 'react-native';
-import {Page} from './Page';
+import React from "react";
+import { StyleSheet, View } from "react-native";
+import { Page } from "./Page";
 
 export default function App() {
   return (
@@ -13,6 +13,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: "#fff",
   },
 });
