@@ -1,13 +1,13 @@
-import React from "react";
-import { StyleSheet, View } from "react-native";
-import { Page } from "./Page";
+import React from "react"
+import { StyleSheet, View } from "react-native"
+import { Page } from "./Page"
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Page />
     </View>
-  );
+  )
 }
 
 const styles = StyleSheet.create({
@@ -15,4 +15,4 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#fff",
   },
-});
+})
